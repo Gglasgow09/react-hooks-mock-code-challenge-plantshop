@@ -41,6 +41,36 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "New Plant",
+      "image": "http://localhost:3000/images/aloe.jpg",
+      "price": 122,
+      "id": 8
+    },
+    {
+      "name": "New Plant",
+      "image": "http://localhost:3000/images/aloe.jpg",
+      "price": 122,
+      "id": 9
+    },
+    {
+      "name": "New Plant",
+      "image": "http://localhost:3000/images/aloe.jpg",
+      "price": 122,
+      "id": 10
+    },
+    {
+      "name": "new plant",
+      "image": "http://localhost:3000/images/zz-plant.jpg",
+      "price": 55.45,
+      "id": 11
+    },
+    {
+      "name": "fhb",
+      "image": "http://localhost:3000/images/zz-plant.jpg",
+      "price": 23,
+      "id": 12
     }
   ]
 }
